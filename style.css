@@ -1,0 +1,108 @@
+/*Roboto Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: gray;
+    color: black;
+}
+
+/*Header styling*/
+.header {
+    background-color: papayawhip;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navbar (menu at top) */
+.navbar {
+    background-color: burlywood;
+    padding: 12px 0;
+    text-align: center;
+}
+
+/* Navbar list style */
+.nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list li {
+    display: inline;
+    margin: 0 15px;
+}
+
+/* Navigation links */
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-list a:hover {
+    color: wheat;
+    text-decoration: underline;
+}
+
+/* Sections Styling */
+section {
+    background-color: white;
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+/* Table style */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #e0f0ff;}
+
+/* Form styling */
+form input,
+form textarea {
+    width: 90%;
+    max-width: 500px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+/* Submit button styling */
+input[type="submit"] {
+    background-color: lightblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: darkcyan;
+}
+
+/* Footer styling */
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
