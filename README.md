@@ -2,21 +2,16 @@
 
 This is my personal portfolio website built using HTML and CSS.
 
-My portfolio .
+My portfolio is comprised off:
 
 ## Features
-
-- Responsive layout
 - About Me section
-- Image gallery
+- Resume section
+- My work section
 - Contact section
 
-## Technologies Used
+## Languages Used
 
 - HTML
 - CSS
-
-## Live Site
-
-Coming soon on GitHub Pages.
 
